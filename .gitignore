@@ -1,0 +1,9 @@
+repository/
+*.deb
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.Z
+*.zip
+*~
